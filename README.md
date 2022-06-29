@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ibbad-Shabbir
+- 👀 I’m interested in react and other javascript libraries
+- 🌱 I’m currently learning angular js
+- 💞️ I’m looking to collaborate on social media apps built in angular 
+- 📫 How to reach me?, you can reach me by contacting me on my email
